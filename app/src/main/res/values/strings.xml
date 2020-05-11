@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences Example</string>
+    <string name="current_state">El valor actual és: %1$s</string>
+    <string name="default_state">El valor per defecte és: %1$s</string>
+    <string name="done">Fet</string>
+    <string name="pending">Pendent</string>
+    <string name="clear">Esborrar</string>
+</resources>
